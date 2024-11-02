@@ -5,3 +5,5 @@
 This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
 
 Check out the [express documentation](https://expressjs.com/) for more information.
+
+Filter the hotels based on different criteria.
